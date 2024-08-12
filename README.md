@@ -9,7 +9,7 @@
 <!--- **Full-stack Development**: Combining both front-end and back-end skills to develop comprehensive solutions.-->
 
 - **Email**: [cyninn.4@gmail.com](mailto:cyninn.4@gmail.com)
-- **LinkedIn**: [Chayanin Manisaeng]([https://www.linkedin.com/in/ai-mousika-568aa4311/](https://www.linkedin.com/in/chayanin-manisaeng-445176312/))
+- **LinkedIn**: [Chayanin Manisaeng](https://www.linkedin.com/in/chayanin-manisaeng-445176312/)
 
 <h2 align="center">GitHub Stats 👨‍💻</h2>
 
