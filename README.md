@@ -1,5 +1,5 @@
 <!--Welcome to my GitHub profile! I'm an aspiring software developer with interests in front-end, back-end, and full-stack development. I'm continually learning and improving my skills in this exciting field.-->
-[![header](./welcome.png)]
+![header](./welcome.png)
 
 <h2 align="center">About Me 👨‍💻</h2>
 
