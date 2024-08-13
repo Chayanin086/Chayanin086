@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Chayanin086&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
-### ⚙️ My development environment
+<h2 align="center">⚙️ My development environment</h2>
 
 | 🖥️ Windows PowerUser | 🐧 Linux Enthusiast |
 | --- | --- |
