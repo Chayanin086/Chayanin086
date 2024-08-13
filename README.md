@@ -27,9 +27,14 @@
 
 <h2 align="center">Repositories 👨‍💻</h2>
 
-Here are some of my projects:
+Here are some of my projects :
+Internship :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chayanin086&repo=LocatedMe-App-Internship-Summer2024)](https://github.com/Chayanin086/LocatedMe-App-Internship-Summer2024)
+
+Project in Class :
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chayanin086&repo=KPS_web)](https://github.com/Chayanin086/KPS_web)
 
 <h5 align="center">
   <a href="https://github.com/Chayanin086?tab=repositories" title="Show All Repositories">See More 🔍</a>
