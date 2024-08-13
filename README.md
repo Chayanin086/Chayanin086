@@ -27,7 +27,7 @@
 
 <h2 align="center">Repositories 👨‍💻</h2>
 
-Here are some of my projects :
+Here are some of my projects : <br>
 Internship :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chayanin086&repo=LocatedMe-App-Internship-Summer2024)](https://github.com/Chayanin086/LocatedMe-App-Internship-Summer2024)
