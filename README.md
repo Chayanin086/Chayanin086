@@ -27,7 +27,7 @@
 <h2 align="center">⚙️ My development environment</h2>
 
 | 🖥️ Windows PowerUser | 🐧 Linux Enthusiast |
-| :----------------------------------------------------------------: | :----------------------------------------------------------------: |
+| -------------------------------- | -------------------------------- |
 | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) |
 
 
