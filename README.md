@@ -35,9 +35,8 @@ Internship :
 Project in Class :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chayanin086&repo=KPS_web)](https://github.com/Chayanin086/KPS_web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chayanin086&repo=KPS_web)](https://github.com/Chayanin086/KPS_web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chayanin086&repo=KPS_web)](https://github.com/Chayanin086/KPS_web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chayanin086&repo=KPS_web)](https://github.com/Chayanin086/KPS_web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chayanin086&repo=colorgames)](https://github.com/Chayanin086/colorgames)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chayanin086&repo=pulse_oximeter)](https://github.com/Chayanin086/pulse_oximeter)
 
 <h5 align="center">
   <a href="https://github.com/Chayanin086?tab=repositories" title="Show All Repositories">See More 🔍</a>
