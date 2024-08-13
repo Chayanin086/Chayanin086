@@ -24,6 +24,23 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Chayanin086&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
+### <p align="center">⚙️ My development environment </p>
+
+<div class="table-devenvironment">
+  <table style="font-size: 11px">
+  <tr>
+  <td valign="top" width="50%">
+  #### 🖥️ Windows PowerUser
+    ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+    ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+    </td>
+    <td valign="top" width="50%">
+#### 🐧 Linux Enthusiast
+    ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+  </td>
+  </tr>
+  </table>
+</div>
 
 <h2 align="center">Repositories 👨‍💻</h2>
 
