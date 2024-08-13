@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Chayanin086&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
-<p align="center">⚙️ My development environment</p>
+<h2 align="center">⚙️ My development environment</h2>
 
 <div align="center">
   <table width="100%" style="font-size: 11px">
